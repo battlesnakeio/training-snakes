@@ -1,3 +1,7 @@
+# -- DEPRECATION WARNING --
+This repo has been moved to https://github.com/BattlesnakeOfficial/training-snakes and will be archived.
+
+
 # Training Snakes
 
 This is to run several snakes of varying difficulty at 
